@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Firma Hukum Profesional di Indonesia",
-  description: "Firma hukum terkemuka yang menyediakan solusi hukum strategis untuk bisnis Anda di Indonesia.",
+  title: "Egul Associates Law Firm",
+  description: "Egul Associates Law Firm adalah partner hukum terpercaya Anda, didedikasikan untuk memberikan layanan profesional berlandaskan integritas.",
 };
 
 export default function RootLayout({

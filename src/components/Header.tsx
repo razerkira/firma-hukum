@@ -7,7 +7,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full bg-white shadow-md">
       <div className="container mx-auto flex h-20 items-center justify-between px-4">
         <div className="text-xl font-bold">
-          <Link href="/">FirmaHukum Anda</Link>
+          <Link href="/">EGUL ASSOCIATES LAW FIRM</Link>
         </div>
 
         <nav className="hidden space-x-6 md:flex">
