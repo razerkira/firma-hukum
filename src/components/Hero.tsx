@@ -14,9 +14,9 @@ export default function Hero() {
           </span>
         </h1>*/}
 
-        <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+        <h1 className="text-4xl font-bold tracking-tight text-[#ffdf00] sm:text-6xl">
           <TextType
-            text={["EGUL ASSOCIATES LAW FIRM",""]}
+            text={["EGUL ASSOCIATES LAW FIRM", ""]}
             typingSpeed={75}
             pauseDuration={1500}
             showCursor={true}
@@ -25,8 +25,9 @@ export default function Hero() {
         </h1>
 
         <p className="mt-6 max-w-2xl text-lg leading-8 text-gray-600">
-          Membantu perusahaan, startup, dan individu menavigasi lanskap hukum
-          Indonesia dengan keahlian dan integritas.
+          Menavigasi Hukum Indonesia dengan Percaya Diri. EGUL ASSOCIATES hadir
+          dengan keahlian dan integritas untuk perusahaan, startup, dan
+          kebutuhan personal Anda.
         </p>
 
         <div className="mt-10 flex items-center justify-center gap-x-6">
